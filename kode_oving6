@@ -1,0 +1,8 @@
+tall = 2
+tall_2 = 3
+
+def summerer(tall, tall_2):
+    return tall**2 + tall_2**5
+    
+
+print(summerer(tall, tall_2))
