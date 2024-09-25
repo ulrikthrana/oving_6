@@ -4,5 +4,5 @@ tall_2 = 3
 def summerer(tall, tall_2):
     return tall**2 + tall_2**5
     
-
+print("kan du melda deg?")
 print(summerer(tall, tall_2))
