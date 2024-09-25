@@ -6,3 +6,4 @@ def summerer(tall, tall_2):
     
 print("kan du melda deg?")
 print(summerer(tall, tall_2))
+print("Ja det kan jeg")
